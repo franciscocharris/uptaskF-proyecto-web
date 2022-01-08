@@ -1,0 +1,3 @@
+# uptaskF-proyecto-web
+pagina web(construida con HTML5, css3, javascript, php7, ajax y mysql) que sirve como agenda personal en el que se puede crear un proyecto(un tema en general) y sus respectivas tareas, el cual se pueden marcar como completadas o eliminarlas, tambien cuenta con una barra de progreso por proyecto. el sistema tambien cuenta con un sistema de autenticacion aunque  no guarda la sesion individual, osea que el que se loguee podra ver y manipular los proyectos 
+la base de datos esta en los archivos del proyecto, ya sabes Desarrollado por Francisco Miguel Charris Camargo :)
